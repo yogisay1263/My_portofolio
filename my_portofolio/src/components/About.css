@@ -1,0 +1,38 @@
+/* styles.css */
+
+#about {
+     /* Set your desired background color */
+  }
+  
+  .container {
+    max-width: 100%;
+  }
+  
+  .title-font {
+    color: #ffffff; /* Set your desired text color */
+  }
+  
+  .leading-relaxed {
+    color: #ffffff; /* Set your desired text color */
+  }
+  
+  .inline-flex {
+    /* Add your button styles here */
+    color: #ffffff;
+    background-color: #4caf50; /* Set your desired button background color */
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .inline-flex:hover {
+    background-color: #45a049; /* Set your desired button hover color */
+  }
+  
+  /* Add more styles as needed */
+  
